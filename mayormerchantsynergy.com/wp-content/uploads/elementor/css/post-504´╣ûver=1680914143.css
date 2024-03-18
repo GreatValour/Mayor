@@ -1,0 +1,42 @@
+.elementor-504 .elementor-element.elementor-element-f17feef{margin-top:0px;margin-bottom:180px;padding:0px 35px 0px 35px;}.elementor-504 .elementor-element.elementor-element-d0b8c40 > .elementor-element-populated{margin:60px 100px 0px 0px;--e-column-margin-right:100px;--e-column-margin-left:0px;}.elementor-504 .elementor-element.elementor-element-8cd33c5 .aux-modern-heading-primary{font-size:16px;font-weight:500;text-transform:uppercase;color:var( --e-global-color-679ecb33 );margin:0px 0px 0px 0px;}.elementor-504 .elementor-element.elementor-element-8cd33c5 .aux-modern-heading-secondary .aux-head-highlight{font-size:43px;font-weight:bold;text-transform:capitalize;line-height:1.4em;color:var( --e-global-color-679ecb33 );margin:5px 0px 10px 0px;max-width:406px;}.elementor-504 .elementor-element.elementor-element-8cd33c5 .aux-modern-heading-description{color:var( --e-global-color-6abeb60a );font-size:16px;font-weight:400;max-width:486px;}.elementor-504 .elementor-element.elementor-element-8cd33c5{animation-timing-function:cubic-bezier(0.165,0.84,0.44,1);}.elementor-504 .elementor-element.elementor-element-643faad > .elementor-element-populated{margin:0% 0% 0% 0%;--e-column-margin-right:0%;--e-column-margin-left:0%;}.elementor-504 .elementor-element.elementor-element-12fb5d2 input:not([type="submit"]){border-radius:5px 5px 5px 5px;padding:12px 20px 17px 20px;background-color:#F5F9FF;border-style:solid;border-width:0px 0px 0px 0px;transition:all ease-out 0.3s;}.elementor-504 .elementor-element.elementor-element-12fb5d2 input:not([type="submit"])::placeholder{font-size:15px;font-weight:300;text-transform:capitalize;font-style:italic;color:rgba(91, 91, 91, 0.6);}.elementor-504 .elementor-element.elementor-element-12fb5d2 input[type="text"]{transition:all ease-out 0.3s;}.elementor-504 .elementor-element.elementor-element-12fb5d2 input[type="email"]{transition:all ease-out 0.3s;}.elementor-504 .elementor-element.elementor-element-12fb5d2 select{transition:all ease-out 0.3s;}.elementor-504 .elementor-element.elementor-element-12fb5d2 textarea{height:165px;border-radius:5px 5px 5px 5px;padding:12px 20px 17px 20px;margin:-20px 0px 25px 0px;background-color:#F5F9FF;border-style:solid;border-width:0px 0px 0px 0px;transition:all ease-out 0.3s;}.elementor-504 .elementor-element.elementor-element-12fb5d2 textarea::placeholder{font-size:15px;font-weight:300;text-transform:capitalize;font-style:italic;color:rgba(91, 91, 91, 0.6);}.elementor-504 .elementor-element.elementor-element-12fb5d2 input[type="submit"]{font-size:16px;font-weight:400;text-transform:uppercase;letter-spacing:0.48px;color:#FFFFFF;border-radius:5px 5px 5px 5px;padding:17px 40px 17px 40px;background-color:var( --e-global-color-50ccadc );box-shadow:0px 5px 15px 0px rgba(9, 60, 220, 0.34901960784313724);transition:all ease-out 0.3s;}.elementor-504 .elementor-element.elementor-element-12fb5d2 input[type="submit"]:hover{background-color:var( --e-global-color-3f477370 );box-shadow:0px 5px 15px 0px rgba(126, 255, 224, 0.34901960784313724);}.elementor-504 .elementor-element.elementor-element-12fb5d2{animation-duration:2000ms;animation-delay:300ms;animation-timing-function:cubic-bezier(0.165,0.84,0.44,1);}@media(max-width:1024px){.elementor-504 .elementor-element.elementor-element-f17feef{margin-top:130px;margin-bottom:130px;}.elementor-504 .elementor-element.elementor-element-8cd33c5 .aux-modern-heading-secondary .aux-head-highlight{font-size:36px;}}@media(max-width:767px){.elementor-504 .elementor-element.elementor-element-d0b8c40 > .elementor-element-populated{margin:0px 0px 0px 0px;--e-column-margin-right:0px;--e-column-margin-left:0px;}.elementor-504 .elementor-element.elementor-element-8cd33c5 .aux-modern-heading-primary{font-size:14px;}.elementor-504 .elementor-element.elementor-element-8cd33c5 .aux-modern-heading-secondary .aux-head-highlight{font-size:32px;}.elementor-504 .elementor-element.elementor-element-8cd33c5 .aux-modern-heading-description{font-size:14px;}.elementor-504 .elementor-element.elementor-element-12fb5d2 input:not([type="submit"])::placeholder{font-size:14px;}.elementor-504 .elementor-element.elementor-element-12fb5d2 textarea::placeholder{font-size:14px;}.elementor-504 .elementor-element.elementor-element-12fb5d2 input[type="submit"]{font-size:14px;}}@media(min-width:768px){.elementor-504 .elementor-element.elementor-element-d0b8c40{width:49.904%;}.elementor-504 .elementor-element.elementor-element-643faad{width:50%;}}/* Start custom CSS for aux_modern_heading, class: .elementor-element-8cd33c5 */.elementor-504 .elementor-element.elementor-element-8cd33c5 .aux-head-highlight{
+    display: inline-block;
+}
+.elementor-504 .elementor-element.elementor-element-8cd33c5 .aux-head-highlight span{
+    background-image: linear-gradient(var(--e-global-color-3f477370), var(--e-global-color-3f477370));
+    background-repeat: no-repeat;
+    background-position: bottom left;
+    background-size: 100% 45%;
+}/* End custom CSS */
+/* Start custom CSS for column, class: .elementor-element-d0b8c40 */@media screen and (max-width:900px){
+    .elementor-504 .elementor-element.elementor-element-d0b8c40{
+        width: 100%;
+    }
+}/* End custom CSS */
+/* Start custom CSS for aux_contact_form, class: .elementor-element-12fb5d2 */.elementor-504 .elementor-element.elementor-element-12fb5d2 .aux-nextto{
+    display: flex;
+    flex-direction:row;
+    justify-content: space-between
+}
+.elementor-504 .elementor-element.elementor-element-12fb5d2 .aux-nextto span{
+    width: 48%;
+}
+.elementor-504 .elementor-element.elementor-element-12fb5d2 textarea{
+    min-height: 165px;
+}
+.elementor-504 .elementor-element.elementor-element-12fb5d2 input[type="submit"]:hover{
+    color: #141414;
+}
+@media screen and (max-width:1024px){
+    .elementor-504 .elementor-element.elementor-element-12fb5d2 .aux-nextto{
+        flex-direction:column;
+    }
+    .elementor-504 .elementor-element.elementor-element-12fb5d2 .aux-nextto span{
+        width: 100%;
+    }
+}/* End custom CSS */
+/* Start custom CSS for column, class: .elementor-element-643faad */@media screen and (max-width:900px){
+    .elementor-504 .elementor-element.elementor-element-643faad{
+        width: 100%;
+        margin-top:10%;
+    }
+}/* End custom CSS */

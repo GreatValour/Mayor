@@ -1,0 +1,36 @@
+.elementor-488 .elementor-element.elementor-element-7d67101 > .elementor-element-populated{margin:0px 0px 30px 0px;--e-column-margin-right:0px;--e-column-margin-left:0px;}.elementor-488 .elementor-element.elementor-element-6ade1ee .col-title a, .elementor-488 .elementor-element.elementor-element-6ade1ee .col-title{color:#FFFFFF !important;}.elementor-488 .elementor-element.elementor-element-6ade1ee .col-title a:hover{color:#FFFFFF !important;}.elementor-488 .elementor-element.elementor-element-6ade1ee .col-title, .elementor-488 .elementor-element.elementor-element-6ade1ee .col-title a{font-size:24px;font-weight:400;text-transform:uppercase;}.elementor-488 .elementor-element.elementor-element-6ade1ee .aux-staff-content  .col-title{margin-bottom:10px;}.elementor-488 .elementor-element.elementor-element-6ade1ee .aux-widget-staff .aux-staff-content{padding:20px 25px 15px 45px;}.elementor-488 .elementor-element.elementor-element-6ade1ee{width:auto;max-width:auto;}.elementor-488 .elementor-element.elementor-element-6ade1ee > .elementor-widget-container{background-color:var( --e-global-color-50ccadc );border-radius:5px 5px 5px 5px;box-shadow:0px 30px 44px 0px rgba(0, 0, 0, 0.08);}.elementor-488 .elementor-element.elementor-element-6ade1ee:hover .elementor-widget-container{background-color:var( --e-global-color-3f477370 );box-shadow:0px 30px 44px 0px rgba(126, 255, 224, 0.12156862745098039);}@media(max-width:1024px){.elementor-488 .elementor-element.elementor-element-6ade1ee .col-title, .elementor-488 .elementor-element.elementor-element-6ade1ee .col-title a{font-size:20px;}}/* Start custom CSS for aux_staff, class: .elementor-element-6ade1ee */.elementor-488 .elementor-element.elementor-element-6ade1ee .aux-widget-staff .aux-staff-footer{
+    border: none;
+}
+.elementor-488 .elementor-element.elementor-element-6ade1ee .aux-social-list li{
+    padding-right: 20px;
+}
+.elementor-488 .elementor-element.elementor-element-6ade1ee .col-title:before{
+    content: '';
+    width: 56px;
+    height: 3px;
+    background: var(--e-global-color-3f477370);
+    border-radius: 2px;
+    display: block;
+    position: relative;
+    top:-17px;
+}
+.elementor-488 .elementor-element.elementor-element-6ade1ee:hover .col-title{
+    color: var(--e-global-color-50ccadc) !important;
+}
+.elementor-488 .elementor-element.elementor-element-6ade1ee:hover .col-subtitle{
+    color: rgba(20, 20, 20, 0.5) !important;
+}
+.elementor-488 .elementor-element.elementor-element-6ade1ee:hover .col-title:before{
+    background: var(--e-global-color-50ccadc);
+}
+.elementor-488 .elementor-element.elementor-element-6ade1ee:hover .aux-social-list a{
+    color: var(--e-global-color-50ccadc);
+}
+.elementor-488 .elementor-element.elementor-element-6ade1ee img{
+    border-radius: 5px 5px 0 0;
+}
+@media screen and (max-width:900px){
+    .elementor-488 .elementor-element.elementor-element-6ade1ee .aux-social-list li{
+        padding-right: 10px !important;
+    }
+}/* End custom CSS */
